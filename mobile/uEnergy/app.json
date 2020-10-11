@@ -1,4 +1,12 @@
 {
   "name": "uEnergy",
-  "displayName": "uEnergy"
+  "displayName": "uEnergy",
+  "expo": {
+    "name": "uEnergy",
+    "slug": "uEnergy",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
